@@ -7,10 +7,12 @@
 
 def star_wars():
     ## Write Code Here
+    ## Use starwars.txt
     return
 
 def star_travel():
     ## Write Code Here
+    ## Use stars.txt
     return
 
 def calculator():
